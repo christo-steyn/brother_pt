@@ -29,6 +29,7 @@ class SupportedPrinterIDs(IntEnum):
     E550W = 0x2060
     P750W = 0x2062
     P710BT = 0x20af
+    P700 = 0x2061
 
 
 STATUS_MESSAGE_LENGTH = 32
